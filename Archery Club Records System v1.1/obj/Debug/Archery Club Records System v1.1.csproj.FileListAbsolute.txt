@@ -1,0 +1,10 @@
+C:\C# Projects\First App\Archery Club Records System v1.1\Archery Club Records System v1.1\obj\Debug\Archery_Club_Records_System_v1._1.Properties.Resources.resources
+C:\C# Projects\First App\Archery Club Records System v1.1\Archery Club Records System v1.1\obj\Debug\Archery Club Records System v1.1.csproj.GenerateResource.cache
+C:\C# Projects\First App\Archery Club Records System v1.1\Archery Club Records System v1.1\obj\Debug\Archery Club Records System v1.1.csproj.CoreCompileInputs.cache
+C:\C# Projects\First App\Archery Club Records System v1.1\Archery Club Records System v1.1\bin\Debug\Archery Club Records System v1.1.exe.config
+C:\C# Projects\First App\Archery Club Records System v1.1\Archery Club Records System v1.1\bin\Debug\Archery Club Records System v1.1.exe
+C:\C# Projects\First App\Archery Club Records System v1.1\Archery Club Records System v1.1\bin\Debug\Archery Club Records System v1.1.pdb
+C:\C# Projects\First App\Archery Club Records System v1.1\Archery Club Records System v1.1\obj\Debug\Archery Club Records System v1.1.exe
+C:\C# Projects\First App\Archery Club Records System v1.1\Archery Club Records System v1.1\obj\Debug\Archery Club Records System v1.1.pdb
+C:\C# Projects\First App\Archery Club Records System v1.1\Archery Club Records System v1.1\obj\Debug\Archery Club Records System v1.1.csprojResolveAssemblyReference.cache
+C:\C# Projects\First App\Archery Club Records System v1.1\Archery Club Records System v1.1\obj\Debug\Archery_Club_Records_System_v1._1.Main_Screen.resources
